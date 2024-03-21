@@ -1,0 +1,1 @@
+hiddify://install-sub?url=warp://162.159.195.171:8854/?ifp=5-10
